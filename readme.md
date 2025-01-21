@@ -12,4 +12,6 @@ So If any of these ideas resonate with you, lets collaborate, and build somethin
 
 3. Personal Green Auditor: India had its first carbon neutral baby being bron in 2025. But how can we ensure that the child grows up while contributing to the greenery of the environment and planet? This is where the personal carbon tracker and grnee auditor comes into play
 
-4. Resolut Me: Ever felt the new year slipping away and your resolutions just staying in the ether? What if we could gamify the experience of life itself and help you achieve all your goals, and become the best version of yourself? 
+4. Resolut Me: Ever felt the new year slipping away and your resolutions just staying in the ether? What if we could gamify the experience of life itself and help you achieve all your goals, and become the best version of yourself?
+
+5. Social media automator: Wanna become a creator, but the daily routine getting in the way? What if AI could take our brain dumpo and turn it into amazing social media posts, complete with a short video, or carousel?
