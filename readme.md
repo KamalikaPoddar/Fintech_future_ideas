@@ -1,10 +1,10 @@
-#My Idea Log
+#My Idea Log#
 
 The Idea of this page is to build in public. 
 
 So If any of these ideas resonate with you, lets collaborate, and build something useful! 
 
-##Ideas
+##Ideas##
 
 1. Single unified asset vault : For ease of finading and managing all our financial assets
 
